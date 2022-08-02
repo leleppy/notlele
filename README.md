@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## i enjoy creating solutions using low code.
+# my work is mainly focused on microsoft technologies.
+
 <!--
 **fairykei/fairykei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://github.com/fairykei">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fairykei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairykei&layout=compact&langs_count=7&theme=dark"/>
+</div>
