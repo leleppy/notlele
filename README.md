@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Leticia%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fairykei/)
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:b4irykei@gmail.com)
-[![Discord](https://img.shields.io/badge/-lele%237820-1865da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/-lele%231865-1865da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
 
 ##### 🌺 i'm a free-spirited girl who likes games and pastel/cute aesthetic. 🌺
 ##### 🎮 *ff* and *yakuza* are my favorite franchises 🎮
