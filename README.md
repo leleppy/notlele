@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:b4irykei@gmail.com)
 [![Discord](https://img.shields.io/badge/-lele%237820-1865da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
 
-##### 🌺 i'm a free-spirited girl who likes games and neon/cute aesthetic. 🌺
+##### 🌺 i'm a free-spirited girl who likes games and pastel/cute aesthetic. 🌺
 ##### 🎮 *ff* and *yakuza* are my favorite franchises 🎮
 ##### 🌎 pt-br / eng / jpn / esp 🌎
 #####
