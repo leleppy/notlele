@@ -5,9 +5,9 @@
 ##### 🌺 i'm a girl who likes games and pastel/cute aesthetic. 🌺
 ##### 🎮 *final fantasy* and *yakuza* are my favorite franchises 🎮
 ##### 🌎 pt-br / eng / jpn / esp 🌎
-#####
   
 ## 
+
 ### 👩‍💻
 ###### i enjoy creating solutions using *low code*.
 ###### my work is mainly focused on *microsoft technologies*;
