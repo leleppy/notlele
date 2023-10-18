@@ -1,6 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Leticia%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fairykei/)
-[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:b4irykei@gmail.com)
-[![Discord](https://img.shields.io/badge/-lele%231865-1865da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Leticia%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leticiaos/)
+[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:f4irykei@gmail.com)
+[![Discord](https://img.shields.io/badge/-pvppycat-1865da?style=flat-square&logo=Discord&logoColor=white)](https://discord.com)
 
 ##### 🌺 i'm a girl who likes games and pastel/cute aesthetic. 🌺
 ##### 🎮 *final fantasy* and *yakuza* are my favorite franchises 🎮
@@ -16,7 +16,7 @@
 
 
 <!--
-**fairykei/fairykei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**notlele/notlele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 #
 <div align="center">
-  <a href="https://github.com/fairykei">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fairykei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairykei&layout=compact&langs_count=8&theme=dark&count_private=true"/>
+  <a href="https://github.com/notlele">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=notlele&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notlele&layout=compact&langs_count=8&theme=dark&count_private=true"/>
 </div>
